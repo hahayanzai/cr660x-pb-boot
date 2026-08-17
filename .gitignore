@@ -1,0 +1,17 @@
+# ===== 临时/缓存（运行时生成，不入库）=====
+_待删除_临时文件/
+**/__pycache__/
+*.pyc
+SSH/tmp/
+SSH/outdir/
+
+# ===== 备份与敏感文件（严禁上传！）=====
+SSH/backups/
+SSH/*.bak_20260815
+SSH/full_info.txt
+SSH/full_info_old.txt
+SSH/firmware/
+
+# ===== 系统杂项 =====
+Thumbs.db
+Desktop.ini
